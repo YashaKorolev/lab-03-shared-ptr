@@ -2,7 +2,7 @@
 
 #include <gtest/gtest.h>
 #include "../include/SharedPtr.h"
-#include "../sources/SharedPtr.cpp"
+
 
 TEST(SharedPtr_Test,Value_Test)
 {
